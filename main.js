@@ -8,7 +8,7 @@ const DEFAULT_SETTINGS = {
         "C:\\Users\\aljar\\Documents\\Obsidian",
         "C:\\Users\\aljar\\Documents\\Obsidian\\04_Projects\\Dynamical Representation Geometry",
         "C:\\Users\\aljar\\Documents\\Obsidian\\99_System\\GoogleKeepSync",
-        "C:\\Users\\aljar\\Documents\\antigravity\\Timeblocker and Task Timer",
+        "C:\\Users\\aljar\\Documents\\antigravity\\schedule-assistant-focus-timer",
         "C:\\Users\\aljar\\Dev\\chaos-dashboard"
     ].join('\n'),
     gitAuthor: "",
