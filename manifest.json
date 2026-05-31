@@ -1,0 +1,10 @@
+{
+  "id": "git-logger",
+  "name": "Git Logger",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically logs Git commit history for daily notes across configured repositories.",
+  "author": "Alex Jarecki",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
