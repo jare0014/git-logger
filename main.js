@@ -192,8 +192,8 @@ module.exports = class GitLoggerPlugin extends obsidian.Plugin {
         }
 
         // Format final logs block
-        const startMarker = '<!-- START_ANTIGRAVITY_GIT_LOG -->';
-        const endMarker = '<!-- END_ANTIGRAVITY_GIT_LOG -->';
+        const startMarker = '<!--START_Antigravity_Git_Log-->';
+        const endMarker = '<!--END_Antigravity_Git_Log-->';
         
         let formattedLog = "";
         if (totalCommits > 0) {
