@@ -116,6 +116,7 @@ module.exports = class GitLoggerPlugin extends obsidian.Plugin {
             if (authorFilter) {
                 cmd += ` --author="${authorFilter.replace(/"/g, '\\"')}"`;
             }
+            cmd += ` -- .`;
 
             exec(cmd, { cwd: resolvedPath }, (error, stdout, stderr) => {
                 if (error) {
